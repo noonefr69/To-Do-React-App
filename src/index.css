@@ -22,6 +22,12 @@
     border-radius: 50%;
 }
 
+@media (max-width: 768px) {
+    #kira{
+        width: 100%;
+    }
+}
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
